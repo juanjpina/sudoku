@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sudok
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prueba2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=valor\ column
+comment1.target=boolean\ columna(int,\ int)
+comment1.text=\r\n\ verifica\ que\ el\ valor\ no\ esta\ en\ la\ columna\r\n
+comment2.params=valor\ line
+comment2.target=boolean\ linea(int,\ int)
+comment2.text=\r\n\ verifica\ que\ no\ esa\ en\ la\ fila\ \r\n
+comment3.params=valor\ line\ column
+comment3.target=boolean\ cuadrado(int,\ int,\ int)
+comment3.text=\r\n\ verifica\ que\ no\ esta\ en\ el\ cuadrante\r\n
+comment4.params=valor\ line\ column
+comment4.target=boolean\ valorPosible(int,\ int,\ int)
+comment4.text=\r\n\ llama\ a\ los\ metodos\ verificar\ linea,\ columna,\ cuadrante\ y\ devuelve\ un\ boolean\r\n
+comment5.params=
+comment5.target=void\ pantalla()
+comment5.text=\r\n\ devuelve\ en\ pantalla\ el\ resultado\r\n
+comment6.params=line\ column
+comment6.target=boolean\ solucion(int,\ int)
+comment6.text=\r\n\ metodo\ que\ soluciona\ el\ cuadrante\r\n
+numComments=7
